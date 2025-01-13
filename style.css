@@ -160,6 +160,7 @@ main {
 
   .card__header h2 {
     margin-bottom: 5px;
+    font-size: 1.4rem
   }
 
   .card__content p {
